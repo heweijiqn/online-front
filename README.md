@@ -2,7 +2,16 @@
 
 English | [简体中文](./README-zh.md)
 
+# 所用技术
+Vue.js：web 界面的渐进式框架
 
+Node.js： JavaScript 运行环境
+
+Axios：Axios 是一个基于 promise 的 HTTP 库
+
+NPM：包管理器
+
+Babel：转码器
 
 ## Build Setup
 
