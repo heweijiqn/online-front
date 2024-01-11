@@ -1,3 +1,5 @@
+# pull代码请先star~~~
+
 # vue-admin-template
 
 English | [简体中文](./README-zh.md)
